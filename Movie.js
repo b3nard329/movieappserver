@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const db = 'mongodb://paul:abc123@ds221242.mlab.com:21242/movies';
+const db = 'mongodb://bernard22:movies123@ds045557.mlab.com:45557/b3narddata';
 
 mongoose
   .connect(
